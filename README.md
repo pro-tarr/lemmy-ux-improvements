@@ -1,6 +1,6 @@
-# Lemmy UI Improvements
+# Lemmy UX Improvements
 
-A Violentmonkey/Greasemonkey _User Script_ for `Lemmy.world` and `Lemmy.ml` UI Improvements.
+A Violentmonkey/Greasemonkey _User Script_ for `Lemmy.world` and `Lemmy.ml` UX Improvements.
 
 This is a handy Violentmonkey script that makes some subtle yet effective adjustments to Lemmy’s user interface.
 
@@ -10,7 +10,7 @@ This is a handy Violentmonkey script that makes some subtle yet effective adjust
 
 2. **Quick access to communities you moderate**: If you are a moderator of any communities, you'll appreciate this feature. This script adds a list of the communities you moderate right below your profile link in the top-right menu. No more digging through your profile page to manage the communities you love. A single click takes you straight to your community page.
 
-![](https://github.com/lawrence-lemmy/lemmy-ui-improvements/assets/142999064/c86caef6-0c1a-420f-b0ed-2fb013238aa2)
+![screenshot of communities list feature](https://github.com/lawrence-lemmy/lemmy-ux-improvements/assets/142999064/ed385001-f4f1-4e4f-bd5f-34eef6b35634)
 
 These improvements are designed to make your Lemmy experience smoother and more enjoyable. To take advantage of these features, all you need to do is install the script through the Violentmonkey extension.
 
