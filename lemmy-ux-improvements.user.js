@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Lemmy UI Improvements
-// @namespace   lemmy-ui-improvements
+// @name        Lemmy UX Improvements
+// @namespace   lemmy-ux-improvements
 // @match       https://lemmy.world/*
 // @match       https://lemmy.ml/*
 // @grant       none
