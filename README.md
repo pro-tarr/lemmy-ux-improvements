@@ -1,6 +1,6 @@
 # Lemmy UI Improvements
 
-A Violentmonkey/Greasymonkey _User Script_ for `Lemmy.world` and `Lemmy.ml` UI Improvements.
+A Violentmonkey/Greasemonkey _User Script_ for `Lemmy.world` and `Lemmy.ml` UI Improvements.
 
 This is a handy Violentmonkey script that makes some subtle yet effective adjustments to Lemmy’s user interface.
 
