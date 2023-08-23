@@ -5,9 +5,12 @@
 // @match       https://lemmy.ml/*
 // @grant       none
 // @version     1.0
+// @license     MIT
 // @author      https://lemmy.world/u/lawrence
 // @description This script does two things: 1)Thumbnail links open in new tab. 2)If the user is a mod of some communities, the communities links appear below the profile link in the top-right menu.
 // ==/UserScript==
+
+// Source code: https://github.com/lawrence-lemmy/lemmy-ux-improvements
 
 window.onload = function () {
   setTimeout(function () {
