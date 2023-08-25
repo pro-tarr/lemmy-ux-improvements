@@ -10,7 +10,7 @@
 // @description This script does two things: 1)Thumbnail links open in new tab. 2)If the user is a mod of some communities, the communities links appear below the profile link in the top-right menu.
 // ==/UserScript==
 
-// Source code: https://github.com/lawrence-lemmy/lemmy-ux-improvements
+// Source code: https://github.com/pro-tarr/lemmy-ux-improvements
 
 window.onload = function () {
   setTimeout(function () {
