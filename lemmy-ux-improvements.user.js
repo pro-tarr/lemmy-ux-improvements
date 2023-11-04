@@ -1,8 +1,11 @@
 // ==UserScript==
 // @name        Lemmy UX Improvements
 // @namespace   lemmy-ux-improvements
-// @match       https://lemmy.world/*
+// @match       https://feddit.de/*
+// @match       https://lemm.ee/*
 // @match       https://lemmy.ml/*
+// @match       https://lemmy.world/*
+// @match       https://sh.itjust.works/*
 // @grant       none
 // @version     1.0
 // @license     MIT
